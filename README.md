@@ -1,3 +1,5 @@
+<img src='cover.jpeg' alt='GitHub Banner' width='100%' />
+
 ## A Passionate Developer from Pakistan 👋
 # 💫 About Me:
 🔭 I’m currently working on https://bsc-wallet.aasanhai.pk/<br>🌱 I’m currently learning Python<br>💬 Ask me about HTML, CSS, JS, REACT, TAILWIND, BOOTSTRAP, REDUX<br>👨‍💻 All of my projects are available at https://github.com/Huzaifa-coder01<br>📫 How to reach me huzaifanadeemtts@gmail.com<br>📄 Know about my experiences https://www.linkedin.com/in/huzaifa-nadeem-b591272aa/
