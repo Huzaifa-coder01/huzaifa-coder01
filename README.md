@@ -19,7 +19,7 @@ Software Engineer with hands-on experience in **full-stack development**, specia
 - 🔭 Currently working as **Jr. Software Engineer @ GlowingSoft Technologies**
 - 🧠 Deep-diving into **scalable backend architecture** and **role-based access control**
 - 💬 Ask me about **React, Next.js, Node.js, Express, MongoDB, Tailwind CSS, MUI**
-- 👨‍💻 Projects which help to start and grow are available at **[github.com/Huzaifa-coder01](https://github.com/Huzaifa-coder01)**
+- 👨‍💻 The repositories here are the **personal projects I started learning with and grew through** — my professional client work lives in private company repositories
 - 📫 Reach me at **huzaifanadeemtts@gmail.com**
 - 📄 Know about my experience on **[LinkedIn](https://linkedin.com/in/huzaifa-nadeem)**
 
@@ -43,6 +43,8 @@ Software Engineer with hands-on experience in **full-stack development**, specia
 ---
 
 ## 🚀 Key Projects
+
+> These are **professional projects** I built at work — the source lives in private company repositories, so they are not published on this profile. The public repos here are my personal learning projects.
 
 ### 🩺 Tempy — Multi-Role Job & Staffing Platform
 `MERN Stack` · **Backend Developer**
@@ -111,17 +113,27 @@ Marketplace connecting users with service professionals such as plumbers, electr
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Huzaifa-coder01&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <br/><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Huzaifa-coder01&theme=dark&hide_border=false" alt="GitHub Streak" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huzaifa-coder01&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Huzaifa-coder01&theme=github_dark" alt="GitHub Profile Summary" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Huzaifa-coder01&theme=dark&hide_border=false" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Huzaifa-coder01&theme=github_dark" alt="Top Languages by Repo" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Huzaifa-coder01&theme=github_dark" alt="Top Languages by Commit" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Huzaifa-coder01&theme=github_dark" alt="Stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Huzaifa-coder01&theme=github_dark&utcOffset=5" alt="Productive Time" />
 </p>
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Huzaifa-coder01&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=Huzaifa-coder01&theme=radical&no-frame=false&no-bg=true&margin-w=4&column=4" alt="Trophies" />
 </p>
 
 ---
